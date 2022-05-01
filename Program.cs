@@ -39,7 +39,6 @@
 
 // Задача 23
 
-
 // void cube(int N)
 // {
 //     int count = 1;
